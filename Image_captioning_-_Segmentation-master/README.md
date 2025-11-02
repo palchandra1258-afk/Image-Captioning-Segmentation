@@ -6,7 +6,7 @@
 
 Production-quality Streamlit web application for Image Captioning and Segmentation using COCO 2014 dataset with state-of-the-art deep learning models.
 
-## 🎯 Project Overview
+## 🎯 Project Overview (All about Project)
 
 This project combines **image captioning** and **image segmentation** into a unified pipeline, employing deep learning models such as CNNs, LSTMs, Transformers, and Mask R-CNN for accurate object labeling and text description generation.
 
